@@ -1,0 +1,6 @@
+Revision history for Perl extension Template::Plugin::Lingua::Conjunction.
+
+0.01  Tue Oct  3 17:13:06 2006
+	- original version; created by h2xs 1.23 with options
+		-AX -b 5.6.0 -n Template::Plugin::Lingua::Conjunction --use-new-tests --skip-exporter --skip-ppport --skip-autoloader
+
