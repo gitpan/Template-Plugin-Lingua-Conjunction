@@ -5,9 +5,9 @@ use strict;
 use warnings;
 use base 'Template::Plugin';
 
-use Lingua::Conjunction;
+use Lingua::Conjunction ();
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 # This plugin is a singleton with no state at all, so...
 sub load {
